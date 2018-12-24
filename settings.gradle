@@ -1,0 +1,6 @@
+rootProject.name = 'city'
+include 'user'
+include 'maison'
+include 'contrat'
+include 'contrat'
+

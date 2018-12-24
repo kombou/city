@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/city.iml" filepath="$PROJECT_DIR$/.idea/modules/city.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/city_main.iml" filepath="$PROJECT_DIR$/.idea/modules/city_main.iml" group="city" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/city_test.iml" filepath="$PROJECT_DIR$/.idea/modules/city_test.iml" group="city" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contrat/contrat.iml" filepath="$PROJECT_DIR$/.idea/modules/contrat/contrat.iml" group="contrat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/maison/maison.iml" filepath="$PROJECT_DIR$/.idea/modules/maison/maison.iml" group="maison" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user.iml" filepath="$PROJECT_DIR$/.idea/modules/user.iml" group="user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user/user_main.iml" filepath="$PROJECT_DIR$/.idea/modules/user/user_main.iml" group="user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user/user_test.iml" filepath="$PROJECT_DIR$/.idea/modules/user/user_test.iml" group="user" />
+    </modules>
+  </component>
+</project>
